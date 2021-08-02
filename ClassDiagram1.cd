@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Checking.Add_user">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAACgAABIQAACAQABDIAAIAAACEFAAABAAEAA=</HashCode>
+      <FileName>Add_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Administrator">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECDEAAkAACigQRwIAEKAQFgCAPy7cA8CEBAAAAABBAA=</HashCode>
+      <FileName>Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Autorisation">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACgAABAAgACAAAACAAAIQAAAEBAAIAFAAAA=</HashCode>
+      <FileName>Autorisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Card">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACgAABABAACAAABCAAAAgAAAABAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Guard">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8yCAAAIAASgAQByYgACAACDCIAE8cACCEBAAAAABFIA=</HashCode>
+      <FileName>Guard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.User_edit">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAgACgAABIQAACAQABDIAQAAAACkBAAABAAEAA=</HashCode>
+      <FileName>User_edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Visitor_edit">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASgAABEQgACAAADCIAWEAACAEBACAAAAEAA=</HashCode>
+      <FileName>Visitor_edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.CopyOfAutorisation">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACgAABAAgACAAAACAAAIQAAAEBAAIAFAAAA=</HashCode>
+      <FileName>Autorisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.CopyOfAdministrator">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECDEAAkAACigQRwIAEKAQFgCAPy7cA8CEBAAAAABBAA=</HashCode>
+      <FileName>Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.CopyOfGuard">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8yCAAAIAASgAQByYgACAACDCIAE8cACCEBAAAAABFIA=</HashCode>
+      <FileName>Guard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.CopyOfCard">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACgAABABAACAAABCAAAAgAAAABAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.CopyOfAdd_user">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAACgAABIQAACAQABDIAAIAAACEFAAABAAEAA=</HashCode>
+      <FileName>Add_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
